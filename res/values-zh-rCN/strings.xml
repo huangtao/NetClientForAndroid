@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StartKit</string>
+    <string name="hello">你好,世界!</string>
+    <string name="ctl_userid">帐号:</string>
+    <string name="ctl_pwd">密码:</string>
+    <string name="tip_loginid">请输入帐号</string>
+    <string name="error_loginid">帐号非法!</string>
+    <string name="tip_loginpwd">请输入密码</string>
+    <string name="error_loginpwd">密码非法!</string>
+    <string name="btn_login">登录</string>
+    <string name="error_getphone">获取本机号码失败!</string>
+    <string name="wait_login">正在登录…</string>
+    <string name="login_failed">登录失败!</string>
+    <string name="btn_account">帐号</string>
+    <string name="btn_medal">奖章</string>
+    <string name="btn_exit">退出</string>
+    <string name="btn_set">设置</string>
+    <string name="btn_log">日志</string>
+    <string name="btn_query">查询</string>
+    <string name="account">帐号:</string>
+</resources>

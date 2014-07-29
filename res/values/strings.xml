@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StartKit</string>
+    <string name="hello">Hello World!</string>
+    <string name="ctl_userid">User ID:</string>
+    <string name="ctl_pwd">Password:</string>
+    <string name="tip_loginid">Please input ID</string>
+    <string name="error_loginid">Uer ID invalid!</string>
+    <string name="tip_loginpwd">Please input password</string>
+    <string name="error_loginpwd">User password invalid!</string>
+    <string name="btn_login">Login…</string>
+    <string name="error_getphone">Get phone code error!</string>
+    <string name="wait_login">Login</string>
+    <string name="login_failed">Login failed!</string>
+    <string name="btn_account">Account</string>
+    <string name="btn_medal">Medal</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_set">Set</string>
+    <string name="btn_log">Log</string>
+    <string name="btn_query">Query</string>
+    <string name="account">Account:</string>
+</resources>
